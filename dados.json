@@ -1,0 +1,40 @@
+{
+  "dados": [
+    {
+      "frequencia_cardiaca": 80,
+      "localizacao": {
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      "data_hora": "2024-10-27T10:30:00Z",
+      "id": "6982"
+    }
+  ],
+  "historico": [
+    {
+      "frequencia_cardiaca": 80,
+      "localizacao": {
+        "latitude": -23.5505,
+        "longitude": -46.6333
+      },
+      "data_hora": "2024-10-27T10:30:00Z",
+      "id": "c399"
+    },
+    {
+      "frequencia_cardiaca": 85,
+      "localizacao": {
+        "latitude": -23.551,
+        "longitude": -46.6335
+      },
+      "data_hora": "2024-10-27T10:31:00Z",
+      "id": "4246"
+    }
+  ],
+  "alerta": [
+    {
+      "mensagem": "Frequência cardíaca irregular detectada!",
+      "data_hora": "2024-10-27T10:45:00Z",
+      "id": "39c6"
+    }
+  ]
+}
